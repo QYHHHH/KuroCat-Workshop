@@ -1,0 +1,16 @@
+{
+  "formatVersion": 1,
+  "name": "雾蓝薰衣草",
+  "author": "QYHHHH",
+  "colors": {
+    "mouseBody": "#F4B9C0",
+    "mouseBorder": "#C98993",
+    "wheel": "#B9ABE6",
+    "base": "#E9E7E3",
+    "deck": "#F6F5F2",
+    "key": "#FCFBF9",
+    "keyBorder": "#A8C3EA",
+    "accent": "#AE9FE0",
+    "darkText": true
+  }
+}
